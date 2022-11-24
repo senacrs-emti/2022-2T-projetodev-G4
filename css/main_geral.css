@@ -2,6 +2,15 @@
     padding: 0;
     margin: 0;
 }
+main{
+    margin-top: 1%;
+}
 img{
     margin-left: 25%;
+}
+#button1{
+    left: 25%;
+}
+#button2{
+    right: 25%;
 }
