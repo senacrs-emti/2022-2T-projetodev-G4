@@ -14,3 +14,8 @@ img{
 #button2{
     right: 25%;
 }
+#div{
+    border-style: groove;
+    border-radius: 6px;
+    margin-top: 4%;
+}
