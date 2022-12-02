@@ -74,26 +74,35 @@ main{
     margin: 0px;
     height: 1260px;
     width: 100%;
-    background-color: aquamarine;
+    background-color: whitesmoke;
     padding-top: 25px;
 }
+
 img{
     margin-left: 25%;
 }
+
 #button1{
     left: 25%;
 }
+
 #button2{
     right: 25%;
 }
+
 #div{
     border-style: groove;
     border-radius: 6px;
     margin-top: 3%;
 }
+
 .per{
     margin: 0px;
     width: 100%;
+}
+
+.a{
+    margin-left: 0%;
 }
 /*---------------------------------------------*/
 footer{
