@@ -69,33 +69,36 @@ h1{
   .dropdown:hover .dropbtn {
     background-color: #0b00a5;
   }
-/*---------------------------------------------*/
-main{
+  /*--------------------------------------------------------------------------------------------*/
+  main{
     margin: 0px;
-    height: 1260px;
+    margin-top: 19px;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 750px;
     width: 100%;
     background-color: aquamarine;
     padding-top: 25px;
 }
-img{
-    margin-left: 25%;
+  div{
+    padding-top: 10px;
 }
-#button1{
-    left: 25%;
+
+Img{
+    margin: 15px;
+    float: left;
+    width: 20%;
 }
-#button2{
-    right: 25%;
+
+h2{
+    margin-left: 55%;
 }
-#div{
-    border-style: groove;
-    border-radius: 6px;
-    margin-top: 3%;
+
+p{
+    margin-left: 10px;
+    text-align: left;
 }
-.per{
-    margin: 0px;
-    width: 100%;
-}
-/*---------------------------------------------*/
+/*--------------------------------------------------------------------------------------------*/
 footer{
     margin-top: 0px;
     height: 100px;
@@ -109,8 +112,12 @@ h3{
     padding-top: 10px;
 }
 
+#div3{
+    margin-top: 0%;
+}
+
 #div2{
-    margin-left: 36%;
+    margin: 0%;
 }
 
 a{
